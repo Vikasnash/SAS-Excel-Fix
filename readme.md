@@ -12,7 +12,7 @@ This leads to Excel metadata showing incorrect or unreadable timestamps.
 
 ## Workaround
 
-A Python script can be used to patch the Excel file by replacing the core.xml metadata with properly formatted values.
+This script is used to patch the Excel file by replacing the core.xml metadata with properly formatted values.
 
 ### Steps
 - Copy the original Excel file.
