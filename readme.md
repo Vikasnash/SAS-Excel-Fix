@@ -2,7 +2,7 @@
 
 ## Background
 
-When using PROC EXPORT in SAS Viya 3.5 to generate Excel files, the resulting core.xml metadata inside the .xlsx package may contain improperly formatted created and modified date-time values. This can cause issues with compliance, audit trails, or downstream processing.
+When using PROC EXPORT in SAS Viya 3.5 to generate Excel files, the resulting core.xml metadata inside the .xlsx package may contain improperly formatted created and modified date-time values. This can cause issues with downstream processing.
 
 ## Problem
 
